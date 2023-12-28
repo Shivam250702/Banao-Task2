@@ -4,11 +4,17 @@
 
 <h2>🚀 Demo</h2>
 
-[https://65855c9b56d734ae23d1a19c--dreamy-pothos-c8d7b0.netlify.app/](https://65855c9b56d734ae23d1a19c--dreamy-pothos-c8d7b0.netlify.app/)
+[https://banao-task2-pi.vercel.app/](https://banao-task2-pi.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
+![image](https://github.com/Shivam250702/Banao-Task2/assets/103785990/4ab9d670-4f1a-4a42-b104-e5c12e88f273)
 
+![image](https://github.com/Shivam250702/Banao-Task2/assets/103785990/b1a5fa63-29a5-4f52-85aa-db1e86096f58)
+
+![image](https://github.com/Shivam250702/Banao-Task2/assets/103785990/d8538e2c-f0f2-418d-bfd4-dac55adc56b4)
+
+![image](https://github.com/Shivam250702/Banao-Task2/assets/103785990/88757e20-b987-44be-8dd1-7d6d2a6e7228)
 
   
   
